@@ -1,0 +1,20 @@
+﻿  LWork.cpp
+c:\users\flatren\documents\visual studio 2015\projects\lwork\Lwork_3.h(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\flatren\documents\visual studio 2015\projects\lwork\Lwork_3.h(51): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\flatren\documents\visual studio 2015\projects\lwork\Lwork_3.h(77): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\flatren\documents\visual studio 2015\projects\lwork\Lwork_3.h(114): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\flatren\documents\visual studio 2015\projects\lwork\Lwork_3.h(193): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\flatren\documents\visual studio 2015\projects\lwork\Lwork_3.h(205): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\flatren\documents\visual studio 2015\projects\lwork\Lwork_3.h(214): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\flatren\documents\visual studio 2015\projects\lwork\Lwork_3.h(224): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note:  см. объявление "fscanf"
+c:\users\flatren\documents\visual studio 2015\projects\lwork\Lwork_3.h(228): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note:  см. объявление "fscanf"
+  Создание кода
+  Создание кода завершено
+  1 of 260 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    35 functions had inline decision re-evaluated but remain unchanged
+  LWork.vcxproj -> C:\Users\FLATREN\Documents\Visual Studio 2015\Projects\LWork\Release\LWork.exe
